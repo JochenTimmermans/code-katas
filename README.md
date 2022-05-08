@@ -1,13 +1,12 @@
 # Code Katas
 
-This is a set of code katas - exercises for practicing one's form. 
+This is a collection of code katas - exercises for practicing one's coding form. 
 
 According to wikipedia
 ```
 Kata is a Japanese word meaning "form". It refers to a detailed choreographed pattern of martial arts movements made to be practised alone.
 ```
 
-So focus on the process, hone your skill.
 
 
 ## Guidelines
